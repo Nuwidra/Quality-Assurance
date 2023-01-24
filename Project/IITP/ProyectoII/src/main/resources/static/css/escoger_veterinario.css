@@ -1,0 +1,27 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url('../images/432973886713f623a2cb0e8e2de87e8b55f7a00345e9d5eb49ca5deb40e2620a3452849843c93b74942e1263aef835440cbada7b56776b3d7d1853_1280.jpg');
+}
+.navbar {
+    background:#000000;
+}
+.nav-link,
+.navbar-brand {
+    color: #fff;
+    cursor: pointer;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: #000;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.form-check-input input[type=password] {
+    background-color: #3CBC8D;
+    color: white;
+}
